@@ -50,8 +50,8 @@ The data used in this project comes from a public Kaggle dataset:
 In my analysis I explore and answer the following questions:
 
 1. How do average real hourly wages differ by education level in 2022? 
-2. How large is the gender wage gap overall and within each education level, and how has it changed  
-3. Which education levels show the steepest wage growth, and how have male and female trends diverged or converged within the same education
+2. How large is the gender wage gap overall and within each education level, and how has it changed?
+3. Which education levels show the steepest wage growth, and how have male and female trends diverged or converged within the same education?
 
 ---
 
@@ -65,7 +65,7 @@ To answer this question I focus on the year 2022 and compare average real hourly
 
 ---
 
-## Question 2: How large is the gender wage gap overall and within each education, and how has it changed
+## Question 2: How large is the gender wage gap overall and within each education, and how has it changed?
 
 I compare male and female pay over time and within each education level, then visualize how the gap changes across years.
 
@@ -75,7 +75,7 @@ I compare male and female pay over time and within each education level, then vi
 
 ---
 
-## Question 3: Which education levels show the steepest wage growth, and how have male and female trends diverged or converged within the same education
+## Question 3: Which education levels show the steepest wage growth, and how have male and female trends diverged or converged within the same education?
 
 I compare wage trends across education levels to see which levels rise the most over 1973-2022 and examine how male and female wages move within the same education level.
 
